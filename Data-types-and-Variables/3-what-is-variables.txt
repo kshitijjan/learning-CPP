@@ -1,0 +1,9 @@
+Variable is basically a container which is used to store data.
+Data type is written first followed by a variable name. Data type decides what type of data a variable will store.
+For example: A variable with int data type will store only integer values.
+
+Writing format:
+
+int n;       {Here n is a variable}
+string name;
+

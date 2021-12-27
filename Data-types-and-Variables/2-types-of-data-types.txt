@@ -1,0 +1,7 @@
+1. int --> for integer value
+2. string --> for plain text written inside double quotes
+3. float --> for decimal numbers
+4. double --> also for decimal number, but upto 15 decimal digits of precision
+5. char --> for single character written inside single quote
+6. bool --> for storing true or false
+7. void --> those functions which does not return any value
